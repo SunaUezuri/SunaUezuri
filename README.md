@@ -1,6 +1,6 @@
 ## Olá Github, sou o Wesley Sena 👋
 
-- 🔭 Atualmente estou desempregado mas gosto de trabalhar em projetos back-end, I.A e Front
+- 🔭 Atualmente estou buscando oportunidades como desenvolvedor back-end ou full-stack e gosto de trabalhar em projetos back-end, I.A e Front
 - 🌱 Atualmente estou aprendendo mais sobre a linguagem Java
 - 😄 Pronomes: Ele/Dele
 
