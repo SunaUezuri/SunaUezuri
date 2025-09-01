@@ -18,7 +18,6 @@
 - 🔭 Busco oportunidades como **Desenvolvedor Back-end ou Full-stack** e curto trabalhar com **back-end, IA e front**.  
 - 🌱 Atualmente estudando **Java** (boas práticas, Spring, testes).  
 - ⚙️ Interessa-me **sistemas escaláveis**, **observabilidade**, **APIs bem projetadas** e **produtos com impacto**.  
-- 😄 Pronomes: **Ele/Dele**.  
 - 🎯 Foco em escrever código **limpo**, **testável** e **documentado**.
 
 ---
@@ -45,13 +44,10 @@
 <img alt="HTML5" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img alt="CSS3" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
-**Mobile**  
-<img alt="React Native" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-
 **Bancos / Mensageria**  
+<img alt="Oracle" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
 <img alt="PostgreSQL" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 <img alt="MongoDB" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-<img alt="Oracle" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
 
 **DevOps**  
 <img alt="Docker" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
