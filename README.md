@@ -15,7 +15,7 @@
 </div>
 
 ## Sobre mim
-- 🔭 Busco oportunidades como **Desenvolvedor Back-end ou Full-stack** e curto trabalhar com **back-end, IA e front**.  
+- 🔭 Busco oportunidades como **Desenvolvedor Back-end ou Full-stack**.  
 - 🌱 Atualmente estudando **Java** (boas práticas, Spring, testes).  
 - ⚙️ Interessa-me **sistemas escaláveis**, **observabilidade**, **APIs bem projetadas** e **produtos com impacto**.  
 - 🎯 Foco em escrever código **limpo**, **testável** e **documentado**.
