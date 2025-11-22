@@ -48,6 +48,7 @@
 <img alt="Oracle" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
 <img alt="PostgreSQL" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 <img alt="MongoDB" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+<img alt="RabbitMQ" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" />
 
 **DevOps**  
 <img alt="Docker" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
