@@ -101,7 +101,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=SunaUezuri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/SunaUezuri">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunaUezuri&layout=compact&langs_count=5&theme=dracula&hide_border=true" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunaUezuri&layout=compact&langs_count=10&theme=dracula&hide_border=true" alt="Top Langs" />
 </a>
 <a href="https://github.com/SunaUezuri">
   <img height="180" src="https://streak-stats.demolab.com/?user=SunaUezuri&theme=dracula&hide_border=true" alt="Streak" />
